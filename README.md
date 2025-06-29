@@ -204,14 +204,5 @@ Use the `Merge.ipynb` notebook to:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
-
-Created for Pre-Interview Assessment - ML/AI Developer Position
-
-**Contact**: 
-- Email: Contact@fonixss.com
-- CC: nilaksha@fonixss.com
-
----
 
 *Built with ❤️ using Flask, TensorFlow, and OpenCV*
